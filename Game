@@ -70,3 +70,4 @@ function dispara(evento) {
 tela.onclick = dispara;
 
 </script>
+
